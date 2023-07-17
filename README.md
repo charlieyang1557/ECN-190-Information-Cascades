@@ -1,8 +1,5 @@
 # Information Cascades
 
-## Team Members
-Erica Tang, Hali Zweigoron, Hyunwoo Park, Tomer Fidelman, Yutian Yang, Zoe Fox
-
 ## Abstract
 This project investigates the phenomenon of "information cascades" through an experiment where participants are provided private information regarding an urn color. Participants make sequential predictions, with access to their private signal and prior participants’ public predictions, and receive a payoff. If public decisions match, successive participants should follow the pattern regardless of their private information, creating “information cascades.” The second part of this report discusses further experimentation on participants’ risk aversion, manipulated through payoff amounts.
 
